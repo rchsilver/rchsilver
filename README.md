@@ -2,9 +2,10 @@
 
 
 # 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=rchsilver&theme=react&hide_border=true&include_all_commits=false&count_private=true&width=400)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rchsilver&theme=react&hide_border=true&width=400)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rchsilver&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=rchsilver&theme=react&hide_border=true&include_all_commits=false&count_private=true&width=400)
+
 
 # 💻 Tech Stack:
 
