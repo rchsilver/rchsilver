@@ -1,4 +1,4 @@
-# Olá, eu sou um programador junior FullStack que ama o que faz!
+# Olá! Sou programador, analista de dados e apaixonado pelo que faço!
 
 
 # 📊 GitHub Stats:
